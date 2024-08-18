@@ -51,14 +51,14 @@ export const SkillData = [
     height: 80,
   },
   {
-    name: "Framer Motion",
-    Image: "/framer.png",
+    name: "CSharp",
+    Image: "/csharp.png",
     width: 80,
     height: 80,
   },
   {
-    name: "Stripe Payment",
-    Image: "/stripe.webp",
+    name: "DOTNET",
+    Image: "/dotnet.png",
     width: 80,
     height: 80,
   },
@@ -69,11 +69,75 @@ export const SkillData = [
     height: 80,
   },
   {
-    name: "Mongo db",
+    name: "Mongo DB",
     Image: "/mongodb.png",
     width: 40,
     height: 40,
   },
+
+  {
+    name: "Vue.JS",
+    Image: "/vuejs.png",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    name: "Three JS",
+    Image: "/threejs.png",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    name: "ViteJS",
+    Image: "/vitejs.png",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    name: "PHP",
+    Image: "/php.png",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    name: "MySQL",
+    Image: "/mysql.png",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    name: "Postgre",
+    Image: "/postgre.png",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    name: "Bootstrap Logo",
+    Image: "/Bootstrap_logo.svg",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    name: "C",
+    Image: "/c.png",
+    width: 80,
+    height: 80,
+  },
+
+  {
+    name: "C Mais Mais",
+    Image: "/cplus.png",
+    width: 80,
+    height: 80,
+  },
+
 ];
 
 

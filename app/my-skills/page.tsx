@@ -23,7 +23,7 @@ const Page = () => {
             Tecnologias
           </h1>
           <p className="text-gray-400 text-[20px]">
-            Também sou especialista em <b>JavaScript, TypeScript, C/C++, PHP, C#/.NET, ReactJS, React Native</b>
+            Todas as tecnologias que <b>eu trabalho:</b>
           </p>
         </div>
         <Swiper
