@@ -5,3 +5,5 @@
 - Editar a aba "Entre em Contato" e colocar um botão com meu LinkedIn e outro com meu Insta
 
 - Adicionar um botão de download currículo virtual no site
+
+- Deixar o site responsivo
