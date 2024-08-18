@@ -141,36 +141,23 @@ export const SkillData = [
 ];
 
 
-
-
-
-
-
-
 export const Socials = [
   {
     name: "Linkedin",
     src: "/linkedin.png",
-    link: "https://linkedin.com"
+    link: "https://linkedin.com/in/fabianooliveiraoficial"
   },
   {
     name: "Github",
     src: "/Github.png",
+    link: "https://github.com/Fabimhso"
   },
   {
     name: "Instagram",
     src: "/instagram.svg",
+    link: "https://instagram.com/fabi.rick"
   },
 ];
-
-
-
-
-
-
-
-
-
 
 export const Projects = [
   {

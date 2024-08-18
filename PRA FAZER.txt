@@ -4,6 +4,4 @@
 
 - Editar a aba "Entre em Contato" e colocar um botão com meu LinkedIn e outro com meu Insta
 
-- Alterar algumas tecnologias da aba TECNOLOGIAS & HABILIDADES
-
-- Adicionar um botão de currículo virtual no site
+- Adicionar um botão de download currículo virtual no site

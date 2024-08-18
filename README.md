@@ -5,5 +5,7 @@ This is my personal portfolio! Made with React, Next.JS, TailwindCSS, NodeJS, Ty
 ```bash
 npm run dev
 ```
-
+```Server Back-End
+node server.js
+```
 Open LocalHost

@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+@keyframes rainbowText {
+  0% { color: rgb(255, 0, 0); }   /* Red */
+  25% { color: rgb(255, 165, 0); } /* Orange */
+  50% { color: rgb(255, 255, 0); } /* Yellow */
+  75% { color: rgb(0, 255, 0); }   /* Green */
+  100% { color: rgb(0, 0, 255); }  /* Blue */
+}
+
+.animate-rainbowText {
+  animation: rainbowText 10s linear infinite; /* Texto RGB */
+}
+
 body {
   overflow: hidden; 
 }

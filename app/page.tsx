@@ -22,6 +22,9 @@ export default function Home() {
             Sou um desenvolvedor Full-Stack <b>C#/.NET</b>. Trabalho criando sistemas web, desktop e mobile.
             Sou especialista nos frameworks <b>React.JS, Node.JS, Next.JS, Vue.JS, Three.JS e Vite.JS</b>
           </p>
+          <span className="text-transparent bg-clip-text animate-rainbowText">
+            <b>Site Criado com NodeJS, React, TailwindCSS, NextJS, Framer Motion, TypeScript e Amor S2</b>
+          </span>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
               href="/my-skills"
