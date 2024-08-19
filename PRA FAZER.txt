@@ -1,9 +1,11 @@
-- Transformar os ícones da Navbar em imagens clicáveis
+MAIS IMPORTANTES:
 
-- Trocar as fotos da aba "Meus Projetos" por projetos meus e colocar um botão pro GitHub
+- Transformar os ícones da Navbar em imagens clicáveis
 
 - Editar a aba "Entre em Contato" e colocar um botão com meu LinkedIn e outro com meu Insta
 
-- Adicionar um botão de download currículo virtual no site
-
 - Deixar o site responsivo
+
+MENOS IMPORTANTES:
+
+- Criar um site na aba "PROJETOS" para mostrar meus projetos de maneira responsiva e melhor

@@ -27,21 +27,28 @@ export default function Home() {
           </span>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
+            target="_blank"
+              href="https://drive.google.com/file/d/1F_w4cXp4JBev_QjZxzL4eE2yJX31Odjj/view?usp=sharing"
+              className="rounded-[70px] group relative bg-purple-900 hover:bg-purple-400 px-5 py-3 text-lg text-white max-w-[200px]"
+            >
+              Meu C.V.
+            </Link>
+            <Link
               href="/my-skills"
-              className="rounded-[20px] group relative bg-blue-500 hover:bg-blue-400 px-5 py-3 text-lg text-white max-w-[200px]"
+              className="rounded-[70px] group relative bg-transparent px-5 border border-white px-5 py-3 text-lg text-white max-w-[200px]"
             >
               Tecnologias
             </Link>
             <Link
               href="/my-projects"
-              className="rounded-[20px] group relative bg-trasparent px-5 border border-white py-3 text-lg text-white max-w-[200px]"
+              className="rounded-[70px] group relative bg-trasparent px-5 border border-white py-3 text-lg text-white max-w-[200px]"
             >
               <div className="absolute rounded-[20px] z-[1] bg-white inset-0 opacity-0 group-hver:opacity-20" />
-              Meus Projetos
+              Projetos
             </Link>
             <Link
               href="/contact-me"
-              className="rounded-[20px] group relative bg-trasparent border border-white px-5 py-3 text-lg text-white max-w-[200px]"
+              className="rounded-[70px] group relative bg-trasparent border border-white px-5 py-3 text-lg text-white max-w-[200px]"
             >
               <div className="absolute rounded-[20px] z-[1] bg-white inset-0 opacity-0 group-hver:opacity-20" />
               Contato
